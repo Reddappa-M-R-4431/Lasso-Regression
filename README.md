@@ -1,2 +1,2 @@
 # Lasso-Regression-Week-4-task
-Internship
+Internship on Lasso Regression algorithm
